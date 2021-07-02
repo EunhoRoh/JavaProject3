@@ -54,7 +54,7 @@ public class Main {
 
                         //crudService.readData(list);
                         //crudService.updateData(list);
-                        System.out.println("스케쥴이 수정되었습니다.");
+
                         break;
 
                     case "4":
@@ -69,7 +69,7 @@ public class Main {
 
                         //crudService.readData(list);
                         //crudService.deleteData(list);
-                        System.out.println("스케쥴이 삭제되었습니다.");
+
                         break;
 
                     case "5":
